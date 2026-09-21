@@ -1,0 +1,10 @@
+# Base dependencies — every project starts here.
+# Add project-specific libraries below (e.g. scikit-learn, statsmodels,
+# xgboost, polars, cvxpy...). Don't add a library just because it exists —
+# only what this specific project actually uses.
+numpy
+pandas
+scipy
+matplotlib
+jupyter
+pytest
