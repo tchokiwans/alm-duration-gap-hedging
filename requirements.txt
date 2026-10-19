@@ -8,3 +8,6 @@ scipy
 matplotlib
 jupyter
 pytest
+# Project-specific
+# lxml: parser used by pandas.read_html (Banque de France table)
+lxml
